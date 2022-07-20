@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Public outreach
+layout: outreach
+description: 'It is not the distance that keeps people apart, it is the lack of communication'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
