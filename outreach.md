@@ -1,6 +1,6 @@
 ---
 title: Public outreach
-layout: outreach
+layout: landing
 description: 'It is not the distance that keeps people apart, it is the lack of communication'
 image: assets/images/pic07.jpg
 nav-menu: true
