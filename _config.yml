@@ -1,7 +1,7 @@
 # site settings
 title: Pablo Vicente Munuera
-subtitle: ", postdoctoral researcher"
-email: pablovm1990@gmail.com
+subtitle: "postdoctoral researcher"
+email: p.munuera@ucl.ac.uk
 description: "Computational biology, tissue mechanics and cell biology"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
