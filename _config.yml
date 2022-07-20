@@ -6,11 +6,11 @@ description: Computational biology, tissue mechanics and cell biology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
-street_address: 
-city: London
-state: TN
-zip_code: 55555
-country: 
+street_address: Laboratory for Molecular Cell Biology (LMCB)
+city: University College London
+state: London
+zip_code: 
+country: UK
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
