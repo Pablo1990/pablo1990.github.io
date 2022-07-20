@@ -1,12 +1,12 @@
 # site settings
 title: Pablo Vicente Munuera
-subtitle: , postdoctoral researcher
+subtitle: ", postdoctoral researcher"
 email: pablovm1990@gmail.com
-description: Computational biology, tissue mechanics and cell biology.
+description: "Computational biology, tissue mechanics and cell biology"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
-street_address: Laboratory for Molecular Cell Biology (LMCB)
+street_address: "Laboratory for Molecular Cell Biology (LMCB)"
 city: University College London
 state: London
 zip_code: 
