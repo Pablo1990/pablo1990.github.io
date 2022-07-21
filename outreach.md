@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Cloruro sodico ("Sodium chloride") a radio show</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Cloruro sodico was a radio program, in which Dario Baño and me, talked about scientific news for ~15 minutes. It was live, so it came with many challenges for me (somedays in a different city 6 hours by car and talking via phone), but it was a beutiful and rewarding experience.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.ivoox.com/en/podcast-cloruro-sodico_sq_f1690466_1.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
