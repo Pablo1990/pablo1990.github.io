@@ -30,5 +30,7 @@ nav-menu: true
 			</dd>
 			<dt>Item2</dt>
 			<dd>
+			</dd>
+		</dl>
 	</section>
 </div>
