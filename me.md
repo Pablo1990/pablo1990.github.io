@@ -14,7 +14,7 @@ nav-menu: true
 				<h1>Hey! It's me, Pablo!</h1>
 			</header>
 			<!-- Content -->
-			<p><span class="image left"><img src="{% link assets/images/Me_2.jpg %}" alt="" /></span>I'm a computer scientist working on biological problems. </p>
+			<p><span class="image left 50%"><img src="{% link assets/images/Me_2.jpg %}" alt="" /></span>I'm a computer scientist working on biological problems. </p>
 		</div>
 	</section>
 </div>
